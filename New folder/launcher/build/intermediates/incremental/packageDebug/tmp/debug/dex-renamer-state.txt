@@ -1,0 +1,4 @@
+#Tue Mar 10 12:59:58 EDT 2020
+base.0=E\:\\2019\\testcycles\\New folder\\launcher\\build\\intermediates\\transforms\\r8\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

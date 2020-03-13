@@ -1,0 +1,2 @@
+# Referenced at E:\2019\testcycles\New folder\launcher\build\intermediates\merged_manifests\debug\AndroidManifest.xml:44
+-keep class com.unity3d.player.UnityPlayerActivity { <init>(); }
